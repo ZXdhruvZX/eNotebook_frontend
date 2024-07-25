@@ -14,7 +14,7 @@ function SideBar() {
 
             {/* Top Image  */}
             <div className="flex justify-center">
-                <img className=' w-52 mt-10' src="https://frontende-n.vercel.app/img/logo.png" alt="" />
+                <img className=' w-52 mt-10' src="https://img.freepik.com/free-vector/school-education-logo-template_23-2149713045.jpg?w=740&t=st=1721941667~exp=1721942267~hmac=d869225d9405adc112f6be8003c18543be68d9be0dca899754f60aa808d2f56d" alt="" />
             </div>
 
             {/* Ul  */}
